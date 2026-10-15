@@ -1,0 +1,280 @@
+competition_id,season_id,country_name,competition_name,competition_gender,competition_youth,competition_international,season_name,match_updated,match_updated_360,match_available_360,match_available,match_id,is_target_team
+259,316,Asia,AFC World Cup Qualifiers,male,False,True,2026,2026-08-22T09:36:02.129826,,,2026-07-27T14:38:17.000000,competitions,False
+259,106,Asia,AFC World Cup Qualifiers,male,False,True,2022,2026-09-08T13:36:00.000000,,,2026-09-08T13:36:00.000000,competitions,False
+1847,315,Africa,Africa U20 Cup of Nations,male,True,True,2025,2026-04-27T11:54:58.000000,,,2026-04-27T11:54:58.000000,competitions,False
+1345,356,Brazil,CBF Brasileiro U20,male,True,False,2028,,,,,competitions,False
+1345,355,Brazil,CBF Brasileiro U20,male,True,False,2027,,,,,competitions,False
+1345,316,Brazil,CBF Brasileiro U20,male,True,False,2026,2026-09-19T05:11:23.000000,,,2026-09-19T05:11:23.000000,competitions,False
+1445,315,South America,CONMEBOL U20,male,True,True,2025,2026-04-27T06:48:13.000000,,,2026-04-27T06:48:13.000000,competitions,False
+1445,107,South America,CONMEBOL U20,male,True,True,2023,2024-08-02T18:23:58.982305,,,2024-08-02T18:23:58.982305,competitions,False
+1385,352,Scotland,Championship,male,False,False,2027/2028,,,,,competitions,False
+1385,351,Scotland,Championship,male,False,False,2026/2027,2026-09-20T10:19:34.000000,,,2026-09-20T10:19:34.000000,competitions,False
+1385,318,Scotland,Championship,male,False,False,2025/2026,2026-08-03T23:47:37.000000,,,2026-08-03T23:47:37.000000,competitions,False
+1385,317,Scotland,Championship,male,False,False,2024/2025,2026-08-04T16:45:56.962718,,,2025-07-14T12:41:57.103480,competitions,False
+1385,281,Scotland,Championship,male,False,False,2023/2024,2026-03-13T11:35:18.439072,,,2025-01-29T18:05:14.948447,competitions,False
+1385,235,Scotland,Championship,male,False,False,2022/2023,2024-09-25T21:47:01.685733,,,2024-09-25T21:47:01.685733,competitions,False
+1778,356,Republic of Ireland,First Division,male,False,False,2028,,,,,competitions,False
+1778,355,Republic of Ireland,First Division,male,False,False,2027,,,,,competitions,False
+1778,316,Republic of Ireland,First Division,male,False,False,2026,2026-09-20T12:11:17.000000,,,2026-09-20T12:11:17.000000,competitions,False
+1778,315,Republic of Ireland,First Division,male,False,False,2025,2026-07-06T16:31:19.000000,,,2026-07-06T16:31:19.000000,competitions,False
+4,352,England,League One,male,False,False,2027/2028,,,,,competitions,False
+4,351,England,League One,male,False,False,2026/2027,2026-09-20T12:22:25.000000,2026-09-20T12:22:25.000000,2026-09-20T12:22:25.000000,2026-09-20T12:22:25.000000,competitions,False
+4,318,England,League One,male,False,False,2025/2026,2026-09-14T18:54:03.000000,,,2026-09-14T18:54:03.000000,competitions,False
+4,317,England,League One,male,False,False,2024/2025,2026-09-03T16:31:31.000000,,,2026-09-03T16:31:31.000000,competitions,False
+4,281,England,League One,male,False,False,2023/2024,2026-05-01T08:44:24.000000,,,2026-05-01T08:44:24.000000,competitions,False
+4,235,England,League One,male,False,False,2022/2023,2026-09-03T16:22:43.000000,,,2026-09-03T16:22:43.000000,competitions,False
+4,108,England,League One,male,False,False,2021/2022,2026-09-03T16:23:03.000000,,,2026-09-03T16:23:03.000000,competitions,False
+4,90,England,League One,male,False,False,2020/2021,2026-06-03T20:05:49.000000,,,2026-06-03T20:05:49.000000,competitions,False
+4,42,England,League One,male,False,False,2019/2020,2026-03-28T11:24:46.750095,,,2025-10-07T14:36:54.000000,competitions,False
+4,4,England,League One,male,False,False,2018/2019,2025-07-14T10:06:08.025161,,,2025-07-14T10:06:08.025161,competitions,False
+5,352,England,League Two,male,False,False,2027/2028,,,,,competitions,False
+5,351,England,League Two,male,False,False,2026/2027,2026-09-20T11:30:53.349152,2026-09-20T07:19:27.000000,2026-09-20T07:19:27.000000,2026-09-20T07:19:27.000000,competitions,False
+5,318,England,League Two,male,False,False,2025/2026,2026-07-28T19:14:37.000000,,,2026-07-28T19:14:37.000000,competitions,False
+5,317,England,League Two,male,False,False,2024/2025,2026-06-21T13:48:51.067917,,,2025-07-21T09:14:53.208236,competitions,False
+5,281,England,League Two,male,False,False,2023/2024,2026-05-01T08:43:42.000000,,,2026-05-01T08:43:42.000000,competitions,False
+5,235,England,League Two,male,False,False,2022/2023,2026-05-03T17:15:18.000000,,,2026-05-03T17:15:18.000000,competitions,False
+5,108,England,League Two,male,False,False,2021/2022,2026-05-04T23:28:06.000000,,,2026-05-04T23:28:06.000000,competitions,False
+5,90,England,League Two,male,False,False,2020/2021,2026-05-06T18:42:35.000000,,,2026-05-06T18:42:35.000000,competitions,False
+5,42,England,League Two,male,False,False,2019/2020,2026-03-27T23:12:27.708496,,,2024-08-07T17:50:01.346494,competitions,False
+5,4,England,League Two,male,False,False,2018/2019,2025-04-23T14:44:00.256729,,,2025-04-23T14:44:00.256729,competitions,False
+8,352,France,Ligue 2,male,False,False,2027/2028,,,,,competitions,False
+8,351,France,Ligue 2,male,False,False,2026/2027,2026-09-20T10:37:19.000000,2026-09-20T10:37:19.000000,2026-09-20T10:37:19.000000,2026-09-20T10:37:19.000000,competitions,False
+8,318,France,Ligue 2,male,False,False,2025/2026,2026-09-20T03:56:59.000000,2026-09-20T03:56:59.000000,2026-09-20T03:56:59.000000,2026-09-20T03:56:59.000000,competitions,False
+8,317,France,Ligue 2,male,False,False,2024/2025,2026-05-21T08:42:25.000000,2026-05-21T08:42:25.000000,2026-05-21T08:42:25.000000,2026-05-21T08:42:25.000000,competitions,False
+65,352,England,National League,male,False,False,2027/2028,,,,,competitions,False
+65,351,England,National League,male,False,False,2026/2027,2026-09-20T12:56:03.000000,,,2026-09-20T12:56:03.000000,competitions,False
+65,318,England,National League,male,False,False,2025/2026,2026-09-03T11:47:28.000000,,,2026-09-03T11:47:28.000000,competitions,False
+65,317,England,National League,male,False,False,2024/2025,2026-09-03T16:20:33.000000,,,2026-09-03T16:20:33.000000,competitions,False
+65,281,England,National League,male,False,False,2023/2024,2026-05-01T08:57:54.000000,,,2026-05-01T08:57:54.000000,competitions,False
+65,235,England,National League,male,False,False,2022/2023,2024-09-21T07:25:32.873292,,,2024-09-21T07:25:32.873292,competitions,False
+65,108,England,National League,male,False,False,2021/2022,2026-05-04T22:55:03.000000,,,2026-05-04T22:55:03.000000,competitions,False
+65,90,England,National League,male,False,False,2020/2021,2026-05-06T18:40:30.000000,,,2026-05-06T18:40:30.000000,competitions,False
+64,352,England,National League N / S,male,False,False,2027/2028,,,,,competitions,False
+64,351,England,National League N / S,male,False,False,2026/2027,2026-09-20T10:06:52.000000,,,2026-09-20T10:06:52.000000,competitions,False
+64,318,England,National League N / S,male,False,False,2025/2026,2026-09-17T07:45:29.000000,,,2026-09-17T07:45:29.000000,competitions,False
+64,281,England,National League N / S,male,False,False,2023/2024,2026-08-24T09:36:14.298660,,,2024-10-31T19:22:29.314762,competitions,False
+64,235,England,National League N / S,male,False,False,2022/2023,2026-08-24T09:49:24.000000,,,2026-08-24T09:49:24.000000,competitions,False
+107,355,Republic of Ireland,Premier Division,male,False,False,2027,,,,,competitions,False
+107,316,Republic of Ireland,Premier Division,male,False,False,2026,2026-09-20T10:27:42.000000,,,2026-09-20T10:27:42.000000,competitions,False
+107,315,Republic of Ireland,Premier Division,male,False,False,2025,2026-06-29T00:16:05.000000,,,2026-06-29T00:16:05.000000,competitions,False
+107,282,Republic of Ireland,Premier Division,male,False,False,2024,2025-09-28T09:06:20.000000,,,2025-09-28T09:06:20.000000,competitions,False
+107,107,Republic of Ireland,Premier Division,male,False,False,2023,2025-12-15T11:18:19.000000,,,2025-12-15T11:18:19.000000,competitions,False
+107,106,Republic of Ireland,Premier Division,male,False,False,2022,2024-09-29T12:27:18.404647,,,2024-09-29T12:27:18.404647,competitions,False
+107,91,Republic of Ireland,Premier Division,male,False,False,2021,2025-04-23T14:20:55.862237,,,2025-04-23T14:20:55.862237,competitions,False
+107,43,Republic of Ireland,Premier Division,male,False,False,2020,2024-03-10T11:39:17.470810,,,2024-03-10T11:39:17.470810,competitions,False
+166,352,England,Premier League 2,male,True,False,2027/2028,,,,,competitions,False
+166,351,England,Premier League 2,male,True,False,2026/2027,2026-09-20T10:35:11.000000,2026-09-20T10:35:11.000000,2026-09-20T10:35:11.000000,2026-09-20T10:35:11.000000,competitions,False
+166,318,England,Premier League 2,male,True,False,2025/2026,2026-09-16T19:15:27.000000,,,2026-09-16T19:15:27.000000,competitions,False
+51,352,Scotland,Premiership,male,False,False,2027/2028,,,,,competitions,False
+51,351,Scotland,Premiership,male,False,False,2026/2027,2026-09-20T13:42:43.000000,2026-09-20T13:42:43.000000,2026-09-20T13:42:43.000000,2026-09-20T13:42:43.000000,competitions,False
+51,318,Scotland,Premiership,male,False,False,2025/2026,2026-09-20T03:02:56.000000,2026-09-20T03:02:56.000000,2026-09-20T03:02:56.000000,2026-09-20T03:02:56.000000,competitions,False
+51,317,Scotland,Premiership,male,False,False,2024/2025,2025-06-27T02:22:26.131097,2025-06-27T02:22:26.131097,2025-06-27T02:22:26.131097,2025-06-27T02:22:26.131097,competitions,False
+51,281,Scotland,Premiership,male,False,False,2023/2024,2026-05-21T08:26:05.000000,2026-05-21T08:26:05.000000,2026-05-21T08:26:05.000000,2026-05-21T08:26:05.000000,competitions,False
+51,235,Scotland,Premiership,male,False,False,2022/2023,2024-09-17T04:29:51.373735,2024-09-17T04:29:51.373735,2024-09-17T04:29:51.373735,2024-09-17T04:29:51.373735,competitions,False
+51,108,Scotland,Premiership,male,False,False,2021/2022,2025-04-23T14:43:34.595738,2025-04-23T14:43:34.595738,2025-04-23T14:43:34.595738,2025-04-23T14:43:34.595738,competitions,False
+51,90,Scotland,Premiership,male,False,False,2020/2021,2025-04-23T14:38:14.916245,,,2025-04-23T14:38:14.916245,competitions,False
+51,42,Scotland,Premiership,male,False,False,2019/2020,2024-08-07T17:20:13.992043,,,2024-08-07T17:20:13.992043,competitions,False
+51,4,Scotland,Premiership,male,False,False,2018/2019,2025-11-02T03:57:17.000000,,,2025-11-02T03:57:17.000000,competitions,False
+1105,352,England,Professional Development League,male,True,False,2027/2028,,,,,competitions,False
+1105,351,England,Professional Development League,male,True,False,2026/2027,2026-09-20T10:55:00.000000,,,2026-09-20T10:55:00.000000,competitions,False
+1105,318,England,Professional Development League,male,True,False,2025/2026,2026-09-03T11:28:53.000000,,,2026-09-03T11:28:53.000000,competitions,False
+1899,352,Europe,UEFA Champions League - Qualification,male,False,False,2027/2028,,,,,competitions,False
+1899,351,Europe,UEFA Champions League - Qualification,male,False,False,2026/2027,2026-09-17T12:17:45.000000,,,2026-09-17T12:17:45.000000,competitions,False
+1899,318,Europe,UEFA Champions League - Qualification,male,False,False,2025/2026,2025-08-28T11:23:19.532136,,,2025-08-28T11:23:19.532136,competitions,False
+1896,352,Europe,UEFA Europa Conference League - Qualification,male,False,False,2027/2028,,,,,competitions,False
+1896,351,Europe,UEFA Europa Conference League - Qualification,male,False,False,2026/2027,2026-09-16T19:15:53.369816,,,2026-09-15T16:33:44.000000,competitions,False
+1892,352,Europe,UEFA Europa League - Qualification,male,False,False,2027/2028,,,,,competitions,False
+1892,351,Europe,UEFA Europa League - Qualification,male,False,False,2026/2027,2026-09-16T19:15:53.369816,,,2026-09-16T07:07:03.000000,competitions,False
+173,355,Europe,UEFA U21 Championship,male,True,True,2027,,,,,competitions,False
+173,315,Europe,UEFA U21 Championship,male,True,True,2025,2026-04-28T11:07:05.000000,,,2026-04-28T11:07:05.000000,competitions,False
+173,107,Europe,UEFA U21 Championship,male,True,True,2023,2026-05-03T17:25:24.000000,,,2026-05-03T17:25:24.000000,competitions,False
+113,352,Europe,UEFA Youth League,male,True,False,2027/2028,,,,,competitions,False
+113,351,Europe,UEFA Youth League,male,True,False,2026/2027,2026-09-19T02:07:13.000000,,,2026-09-19T02:07:13.000000,competitions,False
+113,318,Europe,UEFA Youth League,male,True,False,2025/2026,2026-09-10T07:18:34.887784,,,2026-07-07T14:00:51.000000,competitions,False
+113,317,Europe,UEFA Youth League,male,True,False,2024/2025,2026-09-14T19:58:38.065818,,,2026-06-29T09:39:30.000000,competitions,False
+259,316,Asia,AFC World Cup Qualifiers,male,False,True,2026,2026-08-22T09:36:02.129826,,,2026-07-27T14:38:17.000000,competitions,False
+259,106,Asia,AFC World Cup Qualifiers,male,False,True,2022,2026-09-08T13:36:00.000000,,,2026-09-08T13:36:00.000000,competitions,False
+1847,315,Africa,Africa U20 Cup of Nations,male,True,True,2025,2026-04-27T11:54:58.000000,,,2026-04-27T11:54:58.000000,competitions,False
+1345,356,Brazil,CBF Brasileiro U20,male,True,False,2028,,,,,competitions,False
+1345,355,Brazil,CBF Brasileiro U20,male,True,False,2027,,,,,competitions,False
+1345,316,Brazil,CBF Brasileiro U20,male,True,False,2026,2026-09-19T05:11:23.000000,,,2026-09-19T05:11:23.000000,competitions,False
+1445,315,South America,CONMEBOL U20,male,True,True,2025,2026-04-27T06:48:13.000000,,,2026-04-27T06:48:13.000000,competitions,False
+1445,107,South America,CONMEBOL U20,male,True,True,2023,2024-08-02T18:23:58.982305,,,2024-08-02T18:23:58.982305,competitions,False
+1385,352,Scotland,Championship,male,False,False,2027/2028,,,,,competitions,False
+1385,351,Scotland,Championship,male,False,False,2026/2027,2026-09-20T10:19:34.000000,,,2026-09-20T10:19:34.000000,competitions,False
+1385,318,Scotland,Championship,male,False,False,2025/2026,2026-08-03T23:47:37.000000,,,2026-08-03T23:47:37.000000,competitions,False
+1385,317,Scotland,Championship,male,False,False,2024/2025,2026-08-04T16:45:56.962718,,,2025-07-14T12:41:57.103480,competitions,False
+1385,281,Scotland,Championship,male,False,False,2023/2024,2026-03-13T11:35:18.439072,,,2025-01-29T18:05:14.948447,competitions,False
+1385,235,Scotland,Championship,male,False,False,2022/2023,2024-09-25T21:47:01.685733,,,2024-09-25T21:47:01.685733,competitions,False
+1778,356,Republic of Ireland,First Division,male,False,False,2028,,,,,competitions,False
+1778,355,Republic of Ireland,First Division,male,False,False,2027,,,,,competitions,False
+1778,316,Republic of Ireland,First Division,male,False,False,2026,2026-09-20T12:11:17.000000,,,2026-09-20T12:11:17.000000,competitions,False
+1778,315,Republic of Ireland,First Division,male,False,False,2025,2026-07-06T16:31:19.000000,,,2026-07-06T16:31:19.000000,competitions,False
+4,352,England,League One,male,False,False,2027/2028,,,,,competitions,False
+4,351,England,League One,male,False,False,2026/2027,2026-09-20T12:22:25.000000,2026-09-20T12:22:25.000000,2026-09-20T12:22:25.000000,2026-09-20T12:22:25.000000,competitions,False
+4,318,England,League One,male,False,False,2025/2026,2026-09-14T18:54:03.000000,,,2026-09-14T18:54:03.000000,competitions,False
+4,317,England,League One,male,False,False,2024/2025,2026-09-03T16:31:31.000000,,,2026-09-03T16:31:31.000000,competitions,False
+4,281,England,League One,male,False,False,2023/2024,2026-05-01T08:44:24.000000,,,2026-05-01T08:44:24.000000,competitions,False
+4,235,England,League One,male,False,False,2022/2023,2026-09-03T16:22:43.000000,,,2026-09-03T16:22:43.000000,competitions,False
+4,108,England,League One,male,False,False,2021/2022,2026-09-03T16:23:03.000000,,,2026-09-03T16:23:03.000000,competitions,False
+4,90,England,League One,male,False,False,2020/2021,2026-06-03T20:05:49.000000,,,2026-06-03T20:05:49.000000,competitions,False
+4,42,England,League One,male,False,False,2019/2020,2026-03-28T11:24:46.750095,,,2025-10-07T14:36:54.000000,competitions,False
+4,4,England,League One,male,False,False,2018/2019,2025-07-14T10:06:08.025161,,,2025-07-14T10:06:08.025161,competitions,False
+5,352,England,League Two,male,False,False,2027/2028,,,,,competitions,False
+5,351,England,League Two,male,False,False,2026/2027,2026-09-20T11:30:53.349152,2026-09-20T07:19:27.000000,2026-09-20T07:19:27.000000,2026-09-20T07:19:27.000000,competitions,False
+5,318,England,League Two,male,False,False,2025/2026,2026-07-28T19:14:37.000000,,,2026-07-28T19:14:37.000000,competitions,False
+5,317,England,League Two,male,False,False,2024/2025,2026-06-21T13:48:51.067917,,,2025-07-21T09:14:53.208236,competitions,False
+5,281,England,League Two,male,False,False,2023/2024,2026-05-01T08:43:42.000000,,,2026-05-01T08:43:42.000000,competitions,False
+5,235,England,League Two,male,False,False,2022/2023,2026-05-03T17:15:18.000000,,,2026-05-03T17:15:18.000000,competitions,False
+5,108,England,League Two,male,False,False,2021/2022,2026-05-04T23:28:06.000000,,,2026-05-04T23:28:06.000000,competitions,False
+5,90,England,League Two,male,False,False,2020/2021,2026-05-06T18:42:35.000000,,,2026-05-06T18:42:35.000000,competitions,False
+5,42,England,League Two,male,False,False,2019/2020,2026-03-27T23:12:27.708496,,,2024-08-07T17:50:01.346494,competitions,False
+5,4,England,League Two,male,False,False,2018/2019,2025-04-23T14:44:00.256729,,,2025-04-23T14:44:00.256729,competitions,False
+8,352,France,Ligue 2,male,False,False,2027/2028,,,,,competitions,False
+8,351,France,Ligue 2,male,False,False,2026/2027,2026-09-20T10:37:19.000000,2026-09-20T10:37:19.000000,2026-09-20T10:37:19.000000,2026-09-20T10:37:19.000000,competitions,False
+8,318,France,Ligue 2,male,False,False,2025/2026,2026-09-20T03:56:59.000000,2026-09-20T03:56:59.000000,2026-09-20T03:56:59.000000,2026-09-20T03:56:59.000000,competitions,False
+8,317,France,Ligue 2,male,False,False,2024/2025,2026-05-21T08:42:25.000000,2026-05-21T08:42:25.000000,2026-05-21T08:42:25.000000,2026-05-21T08:42:25.000000,competitions,False
+65,352,England,National League,male,False,False,2027/2028,,,,,competitions,False
+65,351,England,National League,male,False,False,2026/2027,2026-09-20T12:56:03.000000,,,2026-09-20T12:56:03.000000,competitions,False
+65,318,England,National League,male,False,False,2025/2026,2026-09-03T11:47:28.000000,,,2026-09-03T11:47:28.000000,competitions,False
+65,317,England,National League,male,False,False,2024/2025,2026-09-03T16:20:33.000000,,,2026-09-03T16:20:33.000000,competitions,False
+65,281,England,National League,male,False,False,2023/2024,2026-05-01T08:57:54.000000,,,2026-05-01T08:57:54.000000,competitions,False
+65,235,England,National League,male,False,False,2022/2023,2024-09-21T07:25:32.873292,,,2024-09-21T07:25:32.873292,competitions,False
+65,108,England,National League,male,False,False,2021/2022,2026-05-04T22:55:03.000000,,,2026-05-04T22:55:03.000000,competitions,False
+65,90,England,National League,male,False,False,2020/2021,2026-05-06T18:40:30.000000,,,2026-05-06T18:40:30.000000,competitions,False
+64,352,England,National League N / S,male,False,False,2027/2028,,,,,competitions,False
+64,351,England,National League N / S,male,False,False,2026/2027,2026-09-20T10:06:52.000000,,,2026-09-20T10:06:52.000000,competitions,False
+64,318,England,National League N / S,male,False,False,2025/2026,2026-09-17T07:45:29.000000,,,2026-09-17T07:45:29.000000,competitions,False
+64,281,England,National League N / S,male,False,False,2023/2024,2026-08-24T09:36:14.298660,,,2024-10-31T19:22:29.314762,competitions,False
+64,235,England,National League N / S,male,False,False,2022/2023,2026-08-24T09:49:24.000000,,,2026-08-24T09:49:24.000000,competitions,False
+107,355,Republic of Ireland,Premier Division,male,False,False,2027,,,,,competitions,False
+107,316,Republic of Ireland,Premier Division,male,False,False,2026,2026-09-20T10:27:42.000000,,,2026-09-20T10:27:42.000000,competitions,False
+107,315,Republic of Ireland,Premier Division,male,False,False,2025,2026-06-29T00:16:05.000000,,,2026-06-29T00:16:05.000000,competitions,False
+107,282,Republic of Ireland,Premier Division,male,False,False,2024,2025-09-28T09:06:20.000000,,,2025-09-28T09:06:20.000000,competitions,False
+107,107,Republic of Ireland,Premier Division,male,False,False,2023,2025-12-15T11:18:19.000000,,,2025-12-15T11:18:19.000000,competitions,False
+107,106,Republic of Ireland,Premier Division,male,False,False,2022,2024-09-29T12:27:18.404647,,,2024-09-29T12:27:18.404647,competitions,False
+107,91,Republic of Ireland,Premier Division,male,False,False,2021,2025-04-23T14:20:55.862237,,,2025-04-23T14:20:55.862237,competitions,False
+107,43,Republic of Ireland,Premier Division,male,False,False,2020,2024-03-10T11:39:17.470810,,,2024-03-10T11:39:17.470810,competitions,False
+166,352,England,Premier League 2,male,True,False,2027/2028,,,,,competitions,False
+166,351,England,Premier League 2,male,True,False,2026/2027,2026-09-20T10:35:11.000000,2026-09-20T10:35:11.000000,2026-09-20T10:35:11.000000,2026-09-20T10:35:11.000000,competitions,False
+166,318,England,Premier League 2,male,True,False,2025/2026,2026-09-16T19:15:27.000000,,,2026-09-16T19:15:27.000000,competitions,False
+51,352,Scotland,Premiership,male,False,False,2027/2028,,,,,competitions,False
+51,351,Scotland,Premiership,male,False,False,2026/2027,2026-09-20T13:42:43.000000,2026-09-20T13:42:43.000000,2026-09-20T13:42:43.000000,2026-09-20T13:42:43.000000,competitions,False
+51,318,Scotland,Premiership,male,False,False,2025/2026,2026-09-20T03:02:56.000000,2026-09-20T03:02:56.000000,2026-09-20T03:02:56.000000,2026-09-20T03:02:56.000000,competitions,False
+51,317,Scotland,Premiership,male,False,False,2024/2025,2025-06-27T02:22:26.131097,2025-06-27T02:22:26.131097,2025-06-27T02:22:26.131097,2025-06-27T02:22:26.131097,competitions,False
+51,281,Scotland,Premiership,male,False,False,2023/2024,2026-05-21T08:26:05.000000,2026-05-21T08:26:05.000000,2026-05-21T08:26:05.000000,2026-05-21T08:26:05.000000,competitions,False
+51,235,Scotland,Premiership,male,False,False,2022/2023,2024-09-17T04:29:51.373735,2024-09-17T04:29:51.373735,2024-09-17T04:29:51.373735,2024-09-17T04:29:51.373735,competitions,False
+51,108,Scotland,Premiership,male,False,False,2021/2022,2025-04-23T14:43:34.595738,2025-04-23T14:43:34.595738,2025-04-23T14:43:34.595738,2025-04-23T14:43:34.595738,competitions,False
+51,90,Scotland,Premiership,male,False,False,2020/2021,2025-04-23T14:38:14.916245,,,2025-04-23T14:38:14.916245,competitions,False
+51,42,Scotland,Premiership,male,False,False,2019/2020,2024-08-07T17:20:13.992043,,,2024-08-07T17:20:13.992043,competitions,False
+51,4,Scotland,Premiership,male,False,False,2018/2019,2025-11-02T03:57:17.000000,,,2025-11-02T03:57:17.000000,competitions,False
+1105,352,England,Professional Development League,male,True,False,2027/2028,,,,,competitions,False
+1105,351,England,Professional Development League,male,True,False,2026/2027,2026-09-20T10:55:00.000000,,,2026-09-20T10:55:00.000000,competitions,False
+1105,318,England,Professional Development League,male,True,False,2025/2026,2026-09-03T11:28:53.000000,,,2026-09-03T11:28:53.000000,competitions,False
+1899,352,Europe,UEFA Champions League - Qualification,male,False,False,2027/2028,,,,,competitions,False
+1899,351,Europe,UEFA Champions League - Qualification,male,False,False,2026/2027,2026-09-17T12:17:45.000000,,,2026-09-17T12:17:45.000000,competitions,False
+1899,318,Europe,UEFA Champions League - Qualification,male,False,False,2025/2026,2025-08-28T11:23:19.532136,,,2025-08-28T11:23:19.532136,competitions,False
+1896,352,Europe,UEFA Europa Conference League - Qualification,male,False,False,2027/2028,,,,,competitions,False
+1896,351,Europe,UEFA Europa Conference League - Qualification,male,False,False,2026/2027,2026-09-16T19:15:53.369816,,,2026-09-15T16:33:44.000000,competitions,False
+1892,352,Europe,UEFA Europa League - Qualification,male,False,False,2027/2028,,,,,competitions,False
+1892,351,Europe,UEFA Europa League - Qualification,male,False,False,2026/2027,2026-09-16T19:15:53.369816,,,2026-09-16T07:07:03.000000,competitions,False
+173,355,Europe,UEFA U21 Championship,male,True,True,2027,,,,,competitions,False
+173,315,Europe,UEFA U21 Championship,male,True,True,2025,2026-04-28T11:07:05.000000,,,2026-04-28T11:07:05.000000,competitions,False
+173,107,Europe,UEFA U21 Championship,male,True,True,2023,2026-05-03T17:25:24.000000,,,2026-05-03T17:25:24.000000,competitions,False
+113,352,Europe,UEFA Youth League,male,True,False,2027/2028,,,,,competitions,False
+113,351,Europe,UEFA Youth League,male,True,False,2026/2027,2026-09-19T02:07:13.000000,,,2026-09-19T02:07:13.000000,competitions,False
+113,318,Europe,UEFA Youth League,male,True,False,2025/2026,2026-09-10T07:18:34.887784,,,2026-07-07T14:00:51.000000,competitions,False
+113,317,Europe,UEFA Youth League,male,True,False,2024/2025,2026-09-14T19:58:38.065818,,,2026-06-29T09:39:30.000000,competitions,False
+259,316,Asia,AFC World Cup Qualifiers,male,False,True,2026,2026-08-22T09:36:02.129826,,,2026-07-27T14:38:17.000000,competitions,False
+259,106,Asia,AFC World Cup Qualifiers,male,False,True,2022,2026-09-08T13:36:00.000000,,,2026-09-08T13:36:00.000000,competitions,False
+1847,315,Africa,Africa U20 Cup of Nations,male,True,True,2025,2026-04-27T11:54:58.000000,,,2026-04-27T11:54:58.000000,competitions,False
+1345,356,Brazil,CBF Brasileiro U20,male,True,False,2028,,,,,competitions,False
+1345,355,Brazil,CBF Brasileiro U20,male,True,False,2027,,,,,competitions,False
+1345,316,Brazil,CBF Brasileiro U20,male,True,False,2026,2026-09-19T05:11:23.000000,,,2026-09-19T05:11:23.000000,competitions,False
+1445,315,South America,CONMEBOL U20,male,True,True,2025,2026-04-27T06:48:13.000000,,,2026-04-27T06:48:13.000000,competitions,False
+1445,107,South America,CONMEBOL U20,male,True,True,2023,2024-08-02T18:23:58.982305,,,2024-08-02T18:23:58.982305,competitions,False
+1385,352,Scotland,Championship,male,False,False,2027/2028,,,,,competitions,False
+1385,351,Scotland,Championship,male,False,False,2026/2027,2026-09-20T10:19:34.000000,,,2026-09-20T10:19:34.000000,competitions,False
+1385,318,Scotland,Championship,male,False,False,2025/2026,2026-08-03T23:47:37.000000,,,2026-08-03T23:47:37.000000,competitions,False
+1385,317,Scotland,Championship,male,False,False,2024/2025,2026-08-04T16:45:56.962718,,,2025-07-14T12:41:57.103480,competitions,False
+1385,281,Scotland,Championship,male,False,False,2023/2024,2026-03-13T11:35:18.439072,,,2025-01-29T18:05:14.948447,competitions,False
+1385,235,Scotland,Championship,male,False,False,2022/2023,2024-09-25T21:47:01.685733,,,2024-09-25T21:47:01.685733,competitions,False
+1778,356,Republic of Ireland,First Division,male,False,False,2028,,,,,competitions,False
+1778,355,Republic of Ireland,First Division,male,False,False,2027,,,,,competitions,False
+1778,316,Republic of Ireland,First Division,male,False,False,2026,2026-09-20T12:11:17.000000,,,2026-09-20T12:11:17.000000,competitions,False
+1778,315,Republic of Ireland,First Division,male,False,False,2025,2026-07-06T16:31:19.000000,,,2026-07-06T16:31:19.000000,competitions,False
+4,352,England,League One,male,False,False,2027/2028,,,,,competitions,False
+4,351,England,League One,male,False,False,2026/2027,2026-09-20T12:22:25.000000,2026-09-20T12:22:25.000000,2026-09-20T12:22:25.000000,2026-09-20T12:22:25.000000,competitions,False
+4,318,England,League One,male,False,False,2025/2026,2026-09-14T18:54:03.000000,,,2026-09-14T18:54:03.000000,competitions,False
+4,317,England,League One,male,False,False,2024/2025,2026-09-03T16:31:31.000000,,,2026-09-03T16:31:31.000000,competitions,False
+4,281,England,League One,male,False,False,2023/2024,2026-05-01T08:44:24.000000,,,2026-05-01T08:44:24.000000,competitions,False
+4,235,England,League One,male,False,False,2022/2023,2026-09-03T16:22:43.000000,,,2026-09-03T16:22:43.000000,competitions,False
+4,108,England,League One,male,False,False,2021/2022,2026-09-03T16:23:03.000000,,,2026-09-03T16:23:03.000000,competitions,False
+4,90,England,League One,male,False,False,2020/2021,2026-06-03T20:05:49.000000,,,2026-06-03T20:05:49.000000,competitions,False
+4,42,England,League One,male,False,False,2019/2020,2026-03-28T11:24:46.750095,,,2025-10-07T14:36:54.000000,competitions,False
+4,4,England,League One,male,False,False,2018/2019,2025-07-14T10:06:08.025161,,,2025-07-14T10:06:08.025161,competitions,False
+5,352,England,League Two,male,False,False,2027/2028,,,,,competitions,False
+5,351,England,League Two,male,False,False,2026/2027,2026-09-20T11:30:53.349152,2026-09-20T07:19:27.000000,2026-09-20T07:19:27.000000,2026-09-20T07:19:27.000000,competitions,False
+5,318,England,League Two,male,False,False,2025/2026,2026-07-28T19:14:37.000000,,,2026-07-28T19:14:37.000000,competitions,False
+5,317,England,League Two,male,False,False,2024/2025,2026-06-21T13:48:51.067917,,,2025-07-21T09:14:53.208236,competitions,False
+5,281,England,League Two,male,False,False,2023/2024,2026-05-01T08:43:42.000000,,,2026-05-01T08:43:42.000000,competitions,False
+5,235,England,League Two,male,False,False,2022/2023,2026-05-03T17:15:18.000000,,,2026-05-03T17:15:18.000000,competitions,False
+5,108,England,League Two,male,False,False,2021/2022,2026-05-04T23:28:06.000000,,,2026-05-04T23:28:06.000000,competitions,False
+5,90,England,League Two,male,False,False,2020/2021,2026-05-06T18:42:35.000000,,,2026-05-06T18:42:35.000000,competitions,False
+5,42,England,League Two,male,False,False,2019/2020,2026-03-27T23:12:27.708496,,,2024-08-07T17:50:01.346494,competitions,False
+5,4,England,League Two,male,False,False,2018/2019,2025-04-23T14:44:00.256729,,,2025-04-23T14:44:00.256729,competitions,False
+8,352,France,Ligue 2,male,False,False,2027/2028,,,,,competitions,False
+8,351,France,Ligue 2,male,False,False,2026/2027,2026-09-20T10:37:19.000000,2026-09-20T10:37:19.000000,2026-09-20T10:37:19.000000,2026-09-20T10:37:19.000000,competitions,False
+8,318,France,Ligue 2,male,False,False,2025/2026,2026-09-20T03:56:59.000000,2026-09-20T03:56:59.000000,2026-09-20T03:56:59.000000,2026-09-20T03:56:59.000000,competitions,False
+8,317,France,Ligue 2,male,False,False,2024/2025,2026-05-21T08:42:25.000000,2026-05-21T08:42:25.000000,2026-05-21T08:42:25.000000,2026-05-21T08:42:25.000000,competitions,False
+65,352,England,National League,male,False,False,2027/2028,,,,,competitions,False
+65,351,England,National League,male,False,False,2026/2027,2026-09-20T12:56:03.000000,,,2026-09-20T12:56:03.000000,competitions,False
+65,318,England,National League,male,False,False,2025/2026,2026-09-03T11:47:28.000000,,,2026-09-03T11:47:28.000000,competitions,False
+65,317,England,National League,male,False,False,2024/2025,2026-09-03T16:20:33.000000,,,2026-09-03T16:20:33.000000,competitions,False
+65,281,England,National League,male,False,False,2023/2024,2026-05-01T08:57:54.000000,,,2026-05-01T08:57:54.000000,competitions,False
+65,235,England,National League,male,False,False,2022/2023,2024-09-21T07:25:32.873292,,,2024-09-21T07:25:32.873292,competitions,False
+65,108,England,National League,male,False,False,2021/2022,2026-05-04T22:55:03.000000,,,2026-05-04T22:55:03.000000,competitions,False
+65,90,England,National League,male,False,False,2020/2021,2026-05-06T18:40:30.000000,,,2026-05-06T18:40:30.000000,competitions,False
+64,352,England,National League N / S,male,False,False,2027/2028,,,,,competitions,False
+64,351,England,National League N / S,male,False,False,2026/2027,2026-09-20T10:06:52.000000,,,2026-09-20T10:06:52.000000,competitions,False
+64,318,England,National League N / S,male,False,False,2025/2026,2026-09-17T07:45:29.000000,,,2026-09-17T07:45:29.000000,competitions,False
+64,281,England,National League N / S,male,False,False,2023/2024,2026-08-24T09:36:14.298660,,,2024-10-31T19:22:29.314762,competitions,False
+64,235,England,National League N / S,male,False,False,2022/2023,2026-08-24T09:49:24.000000,,,2026-08-24T09:49:24.000000,competitions,False
+107,355,Republic of Ireland,Premier Division,male,False,False,2027,,,,,competitions,False
+107,316,Republic of Ireland,Premier Division,male,False,False,2026,2026-09-20T10:27:42.000000,,,2026-09-20T10:27:42.000000,competitions,False
+107,315,Republic of Ireland,Premier Division,male,False,False,2025,2026-06-29T00:16:05.000000,,,2026-06-29T00:16:05.000000,competitions,False
+107,282,Republic of Ireland,Premier Division,male,False,False,2024,2025-09-28T09:06:20.000000,,,2025-09-28T09:06:20.000000,competitions,False
+107,107,Republic of Ireland,Premier Division,male,False,False,2023,2025-12-15T11:18:19.000000,,,2025-12-15T11:18:19.000000,competitions,False
+107,106,Republic of Ireland,Premier Division,male,False,False,2022,2024-09-29T12:27:18.404647,,,2024-09-29T12:27:18.404647,competitions,False
+107,91,Republic of Ireland,Premier Division,male,False,False,2021,2025-04-23T14:20:55.862237,,,2025-04-23T14:20:55.862237,competitions,False
+107,43,Republic of Ireland,Premier Division,male,False,False,2020,2024-03-10T11:39:17.470810,,,2024-03-10T11:39:17.470810,competitions,False
+166,352,England,Premier League 2,male,True,False,2027/2028,,,,,competitions,False
+166,351,England,Premier League 2,male,True,False,2026/2027,2026-09-20T10:35:11.000000,2026-09-20T10:35:11.000000,2026-09-20T10:35:11.000000,2026-09-20T10:35:11.000000,competitions,False
+166,318,England,Premier League 2,male,True,False,2025/2026,2026-09-16T19:15:27.000000,,,2026-09-16T19:15:27.000000,competitions,False
+51,352,Scotland,Premiership,male,False,False,2027/2028,,,,,competitions,False
+51,351,Scotland,Premiership,male,False,False,2026/2027,2026-09-20T13:42:43.000000,2026-09-20T13:42:43.000000,2026-09-20T13:42:43.000000,2026-09-20T13:42:43.000000,competitions,False
+51,318,Scotland,Premiership,male,False,False,2025/2026,2026-09-20T03:02:56.000000,2026-09-20T03:02:56.000000,2026-09-20T03:02:56.000000,2026-09-20T03:02:56.000000,competitions,False
+51,317,Scotland,Premiership,male,False,False,2024/2025,2025-06-27T02:22:26.131097,2025-06-27T02:22:26.131097,2025-06-27T02:22:26.131097,2025-06-27T02:22:26.131097,competitions,False
+51,281,Scotland,Premiership,male,False,False,2023/2024,2026-05-21T08:26:05.000000,2026-05-21T08:26:05.000000,2026-05-21T08:26:05.000000,2026-05-21T08:26:05.000000,competitions,False
+51,235,Scotland,Premiership,male,False,False,2022/2023,2024-09-17T04:29:51.373735,2024-09-17T04:29:51.373735,2024-09-17T04:29:51.373735,2024-09-17T04:29:51.373735,competitions,False
+51,108,Scotland,Premiership,male,False,False,2021/2022,2025-04-23T14:43:34.595738,2025-04-23T14:43:34.595738,2025-04-23T14:43:34.595738,2025-04-23T14:43:34.595738,competitions,False
+51,90,Scotland,Premiership,male,False,False,2020/2021,2025-04-23T14:38:14.916245,,,2025-04-23T14:38:14.916245,competitions,False
+51,42,Scotland,Premiership,male,False,False,2019/2020,2024-08-07T17:20:13.992043,,,2024-08-07T17:20:13.992043,competitions,False
+51,4,Scotland,Premiership,male,False,False,2018/2019,2025-11-02T03:57:17.000000,,,2025-11-02T03:57:17.000000,competitions,False
+1105,352,England,Professional Development League,male,True,False,2027/2028,,,,,competitions,False
+1105,351,England,Professional Development League,male,True,False,2026/2027,2026-09-20T10:55:00.000000,,,2026-09-20T10:55:00.000000,competitions,False
+1105,318,England,Professional Development League,male,True,False,2025/2026,2026-09-03T11:28:53.000000,,,2026-09-03T11:28:53.000000,competitions,False
+1899,352,Europe,UEFA Champions League - Qualification,male,False,False,2027/2028,,,,,competitions,False
+1899,351,Europe,UEFA Champions League - Qualification,male,False,False,2026/2027,2026-09-17T12:17:45.000000,,,2026-09-17T12:17:45.000000,competitions,False
+1899,318,Europe,UEFA Champions League - Qualification,male,False,False,2025/2026,2025-08-28T11:23:19.532136,,,2025-08-28T11:23:19.532136,competitions,False
+1896,352,Europe,UEFA Europa Conference League - Qualification,male,False,False,2027/2028,,,,,competitions,False
+1896,351,Europe,UEFA Europa Conference League - Qualification,male,False,False,2026/2027,2026-09-16T19:15:53.369816,,,2026-09-15T16:33:44.000000,competitions,False
+1892,352,Europe,UEFA Europa League - Qualification,male,False,False,2027/2028,,,,,competitions,False
+1892,351,Europe,UEFA Europa League - Qualification,male,False,False,2026/2027,2026-09-16T19:15:53.369816,,,2026-09-16T07:07:03.000000,competitions,False
+173,355,Europe,UEFA U21 Championship,male,True,True,2027,,,,,competitions,False
+173,315,Europe,UEFA U21 Championship,male,True,True,2025,2026-04-28T11:07:05.000000,,,2026-04-28T11:07:05.000000,competitions,False
+173,107,Europe,UEFA U21 Championship,male,True,True,2023,2026-05-03T17:25:24.000000,,,2026-05-03T17:25:24.000000,competitions,False
+113,352,Europe,UEFA Youth League,male,True,False,2027/2028,,,,,competitions,False
+113,351,Europe,UEFA Youth League,male,True,False,2026/2027,2026-09-19T02:07:13.000000,,,2026-09-19T02:07:13.000000,competitions,False
+113,318,Europe,UEFA Youth League,male,True,False,2025/2026,2026-09-10T07:18:34.887784,,,2026-07-07T14:00:51.000000,competitions,False
+113,317,Europe,UEFA Youth League,male,True,False,2024/2025,2026-09-14T19:58:38.065818,,,2026-06-29T09:39:30.000000,competitions,False
